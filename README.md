@@ -1,10 +1,14 @@
-### Hi there 👋
+<h1 align="left">Hi there!👋</h1>
 
-> My name is Leonardo, i live in Brazil. <br>
+> My name is Leonardo, I live in Brazil. <br>
 🌱 I’m currently learning JAVASCRIPT, SQL, NODE, REACT
   
  ##
-  
+
+<h2 align="left">📨  Contact Me</h2>
+
+##
+
 <div>
    <a href="https://instagram.com/leonardo_aldias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/leonardo-alves-877368165/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
