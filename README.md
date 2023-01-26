@@ -3,7 +3,7 @@
 > My name is Leonardo, I live in Brazil. <br>
 🌱 I’m currently learning JAVASCRIPT, SQL, NODE, REACT
 
-<h2 align="left">📨  Contact Me</h2>
+<h2 align="left">📨  Contact me</h2>
 
 <div>
    <a href="https://instagram.com/leonardo_aldias" target="_blank">
