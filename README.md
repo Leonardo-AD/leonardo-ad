@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
+My name is Leonardo, i live in Brazil.
+🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SQL, NODE, REACT
   
  ##
   
