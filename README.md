@@ -21,8 +21,6 @@
 
 <h3>🧑🏽‍💻 | Languages</h3>
 
-##
-
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript logo">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript logo">
