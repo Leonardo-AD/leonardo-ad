@@ -49,6 +49,14 @@
    <img src="https://img.shields.io/badge/INSOMNIA-3c1a7d?style=for-the-badge&logo=insomnia&logoColor=white" alt="insomnia logo">
 </div>
 
+<h3>🖌️ | Design</h3>
+
+<div align="left">
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"  alt="figma logo">
+   <img src="https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white"  alt="canva logo">
+</div>
+
+##
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=leonardo-ad" height="150" alt="stats graph"  />
