@@ -2,12 +2,8 @@
 
 > My name is Leonardo, I live in Brazil. <br>
 🌱 I’m currently learning JAVASCRIPT, SQL, NODE, REACT
-  
- ##
 
 <h2 align="left">📨  Contact Me</h2>
-
-##
 
 <div>
    <a href="https://instagram.com/leonardo_aldias" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
