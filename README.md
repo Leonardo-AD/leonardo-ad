@@ -17,11 +17,15 @@
   </a>
 </div>
 
-##
-
 <h2 align="left">👇🏼 I know...</h2>
 
 ##
+
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  alt="javascript logo">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"  alt="typescript logo">
+  <img src="https://img.shields.io/badge/PHP-007ACC?style=for-the-badge&logo=php&logoColor=white"  alt="php logo">
+</div>
 
 <h3>🧑🏽‍💻 | Languages</h3>
 
