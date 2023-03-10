@@ -68,4 +68,6 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=leonardo-ad&show_icons=true" />
-</picture>
+</picture> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-ad&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/leonardo-ad/github-readme-stats)
