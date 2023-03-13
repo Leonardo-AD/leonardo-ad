@@ -56,9 +56,8 @@
    <img src="https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white"  alt="canva logo">
 </div>
 
-##
+<h2>📊 GitHub Stats:</h2>
 
-### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Leonardo-AD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-AD&theme=dark&hide_border=false)<br/>
