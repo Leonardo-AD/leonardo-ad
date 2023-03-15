@@ -58,8 +58,16 @@
 
 <h2>📊 GitHub Stats:</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=Leonardo-AD&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=leonardo-ad&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=leonardo-ad&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=leonardo-ad&show_icons=true" />
+</picture>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Leonardo-AD&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-AD&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
