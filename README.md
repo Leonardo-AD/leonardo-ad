@@ -36,6 +36,7 @@
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="css3 logo">
    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"  alt="bootstrap logo">
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  alt="react logo">
+   <img src="https://img.shields.io/badge/Tailwind-1E293B?style=for-the-badge&logo=tailwindcss&logoColor=0EA5E9"  alt="tailwind logo">
    <img src="https://img.shields.io/badge/VITE-646cff?style=for-the-badge&logo=vite&logoColor=white"  alt="vite logo">
 </div>
 
