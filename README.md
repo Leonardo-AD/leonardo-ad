@@ -1,7 +1,7 @@
 <h1 align="left">Hi there!👋</h1>
 
 > My name is Leonardo, I live in Brazil. <br>
-> I’m a Front End Web Developer
+> I’m a Front End Web Developer.
 
 <h2 align="left">📨  Contact me</h2>
 
