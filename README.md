@@ -19,12 +19,13 @@
 
 <h2 align="left">👇🏼 I know...</h2>
 
-<h3>💻 | Languages</h3>
+<h3>:man_technologist: | Languages</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript logo">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript logo">
   <img src="https://img.shields.io/badge/PHP-7A86B8?style=for-the-badge&logo=php&logoColor=white" alt="php logo">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java logo">
 </div>
 
 <h3>🎨 | Front-End</h3>
@@ -44,6 +45,7 @@
 
 <div align="left">
    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs logo">
+   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring logo">
    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express logo">
    <img src="https://img.shields.io/badge/EJS-green?style=for-the-badge&logo=EJS&logoColor=white" alt="ejs logo">
    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo">
@@ -55,6 +57,13 @@
 <div align="left">
    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"  alt="figma logo">
    <img src="https://img.shields.io/badge/Canva-00c4cc?style=for-the-badge&logo=canva&logoColor=white"  alt="canva logo">
+</div>
+
+<h3>💻 | Operational Systems</h3>
+
+<div align="left">
+   <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white"  alt="windows logo">
+   <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"  alt="linux logo">
 </div>
 
 <h2>📊 GitHub Stats:</h2>
