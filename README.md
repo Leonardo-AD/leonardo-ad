@@ -17,8 +17,6 @@
   </a>
 </div>
 
-<h2 align="left">👇🏼 I know...</h2>
-
 <h3>:man_technologist: | Languages</h3>
 
 <div align="left">
